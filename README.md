@@ -2,17 +2,17 @@
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
 </p>
 
-<p align="center"> $\color{#E02E4B}{\textsf{嗚呼　好き　好き　好き　好き　好き　好きだよ}}$ </p>
-<p align="center"> $\color{#E05262}{\textsf{美しい君が　傷だらけの姿が}}$ </p>
-<p align="center"> $\color{#E02E4B}{\textsf{嗚呼　好き　好き　好き　好き　好き　好きだよ}}$ </p>
-<p align="center"> 僕ならもっと　君を美しく傷つけられる
+<p align="center"> $\color{#C71818}{\textsf{嗚呼　好き　好き　好き　好き　好き　好きだよ}}$ </p>
+<p align="center"> $\color{#D93921}{\textsf{美しい君が　傷だらけの姿が}}$ </p>
+<p align="center"> $\color{#E0502D}{\textsf{嗚呼　好き　好き　好き　好き　好き　好きだよ}}$ </p>
+<p align="center"> $\color{#EB793B}{\textsf{僕ならもっと　君を美しく傷つけられる}}$
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://www.youtube.com/watch?v=tGyhGZBXkTI)
 
-<p align="center"> $\color{#DE6454}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
-<p align="center"> $\color{#D84936}{\textsf{もう生きていけない}}$ </p>
-<p align="center"> 僕は　もっと美しい君の姿を知ってしまった
-<p align="center"> 嗚呼　嗚呼
+<p align="center"> $\color{#BD2A08}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
+<p align="center"> $\color{#DB2340}{\textsf{もう生きていけない}}$ </p>
+<p align="center"> $\color{#C71818}{\textsf{僕は　もっと美しい君の姿を知ってしまった}}$
+<p align="center"> $\color{#A80505}{\textsf{嗚呼　嗚呼}}$
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
