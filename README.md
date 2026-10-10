@@ -9,10 +9,10 @@
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://youtu.be/Kn_f1D9U7HA)
 
-<p align="center"> $\color{#E0502D}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
-<p align="center"> $\color{#D93921}{\textsf{もう生きていけない}}$ </p>
-<p align="center"> $\color{#C71818}{\textsf{僕は　もっと美しい君の姿を知ってしまった}}$
-<p align="center"> $\color{#A80505}{\textsf{嗚呼　嗚呼}}$
+<p align="center"> $\color{#EB793B}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
+<p align="center"> $\color{#E0502D}{\textsf{もう生きていけない}}$ </p>
+<p align="center"> $\color{#D93921}{\textsf{僕は　もっと美しい君の姿を知ってしまった}}$
+<p align="center"> $\color{#C71818}{\textsf{嗚呼　嗚呼}}$
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
