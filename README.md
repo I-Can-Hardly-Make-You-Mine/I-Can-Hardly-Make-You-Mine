@@ -7,7 +7,7 @@
 <p align="center"> $\color{#E0502D}{\textsf{嗚呼　好き　好き　好き　好き　好き　好きだよ}}$ </p>
 <p align="center"> $\color{#EB793B}{\textsf{僕ならもっと　君を美しく傷つけられる}}$
 
-[![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://www.youtube.com/watch?v=tGyhGZBXkTI)
+[![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://youtu.be/Kn_f1D9U7HA)
 
 <p align="center"> $\color{#E0502D}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
 <p align="center"> $\color{#D93921}{\textsf{もう生きていけない}}$ </p>
