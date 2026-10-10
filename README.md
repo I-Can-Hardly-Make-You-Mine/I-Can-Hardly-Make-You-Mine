@@ -9,8 +9,8 @@
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://www.youtube.com/watch?v=tGyhGZBXkTI)
 
-<p align="center"> $\color{#BD2A08}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
-<p align="center"> $\color{#DB2340}{\textsf{もう生きていけない}}$ </p>
+<p align="center"> $\color{#E0502D}{\textsf{記憶の中の君の笑顔じゃ}}$ </p>
+<p align="center"> $\color{#D93921}{\textsf{もう生きていけない}}$ </p>
 <p align="center"> $\color{#C71818}{\textsf{僕は　もっと美しい君の姿を知ってしまった}}$
 <p align="center"> $\color{#A80505}{\textsf{嗚呼　嗚呼}}$
 
